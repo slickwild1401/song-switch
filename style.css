@@ -1,0 +1,29 @@
+.header{
+    width:100%;
+   
+   font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 10px 10px 10px purple;
+}
+
+.song_name{
+    width:200px;
+    font-size:25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 10px 10px 10px rgb(113, 223, 141);
+    
+
+}
+
+body{
+    text-align:center;
+}
+
+canvas{
+   margin-top:100px;
+    border-radius:10%;
+    box-shadow: 5px 5px 5px rgb(223, 183, 113);
+    
+
+   
+}
